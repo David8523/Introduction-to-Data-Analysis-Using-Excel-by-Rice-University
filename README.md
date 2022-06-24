@@ -1,4 +1,4 @@
-# Introduction to Data Analysis Using Excel Rce niversity
+# Introduction to Data Analysis Using Excel Rice niversity
 **Week 1: Introduction to Spreadsheets**
 
 In this module, you will be introduced to the use of Excel spreadsheets and various basic data functions of Excel.
@@ -42,4 +42,4 @@ Topics covered include:
 *  Scatter plots
 *  Histograms
 
-![alt text](image.jpg)
+![alt text](certificate.jpg)
