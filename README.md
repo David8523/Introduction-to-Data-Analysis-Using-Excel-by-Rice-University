@@ -41,3 +41,5 @@ Topics covered include:
 *  Pivot charts
 *  Scatter plots
 *  Histograms
+
+![alt text](image.jpg)
