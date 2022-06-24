@@ -41,5 +41,6 @@ Topics covered include:
 *  Pivot charts
 *  Scatter plots
 *  Histograms
+![Certificate](https://user-images.githubusercontent.com/108145991/175613821-b24a011f-99a8-4b5e-8378-36d36a1b4722.jpeg)
 
-![alt text](certificate.jpg)
+
