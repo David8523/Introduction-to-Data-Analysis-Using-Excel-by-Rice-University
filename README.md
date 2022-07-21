@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/46785798/65376985-7a9a1900-dcc8-11e9-88b0-30c20b073730.png" />
+</p>
+
 # Introduction to Data Analysis Using Excel by Rice University
 **Week 1: Introduction to Spreadsheets**
 
